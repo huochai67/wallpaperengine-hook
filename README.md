@@ -1,0 +1,4 @@
+#WALLPAPERENGINE_HOOK
+
+使用Hook MyCreateFileW实现运行时替换WallPaperEngine读取的配置文件
+好多路径都写死了，真要用估计得自己改改（
